@@ -1,4 +1,4 @@
-/* Project 2 - Employee data analysis and dashboard visualization */
+/* Project 2 - Employee data analysis */
 
 /*using employees table for analysis */
 use employees;
