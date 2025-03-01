@@ -1,4 +1,7 @@
 
+For physical data model view of sports analytics please refer PhysicalDataModel_sportsAnalytics.mwb and view raw option.
+![image](https://github.com/user-attachments/assets/571fc238-0344-4507-8697-ab48586365d5)
+
 #     **Sport Analytics - Problem statements**
 ## Problem 1 :Identifying duplicate rows in TEAM table
 ## Problem 2 : Create a view to have the count of goals made by home team and away team
@@ -21,5 +24,4 @@ For Sport analytics please refer Project 1.sql.
 
 ![image](https://github.com/user-attachments/assets/05d91f39-887e-4982-80c1-cbc622bac2b3)
 
-For physical data model view of sports analytics please refer PhysicalDataModel_sportsAnalytics.mwb and view raw option.
-![image](https://github.com/user-attachments/assets/571fc238-0344-4507-8697-ab48586365d5)
+
