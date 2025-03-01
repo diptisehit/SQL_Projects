@@ -257,9 +257,6 @@ on team.team_api_id=matches.home_team_api_id
 where matches.home_team_api_id=9987;
 
 
-/* USE-CASE-9 : Identify the league where the highest goal count is taken by a home team and a away team.*/
-
-
 
 -- *****************END OF ANALYSIS***************************
 
